@@ -26,11 +26,11 @@ order_products.csv: each row corresponds to one item placed in an order
   
 aisles.csv
 - 'aisle_id': ID number that uniquely identifies each grocery aisle category
--v'aisle': name of the aisle
+- 'aisle': name of the aisle
 
 departments.csv
--c'department_id': ID number that uniquely identifies each grocery department category
--c'department': name of the department 
+- 'department_id': ID number that uniquely identifies each grocery department category
+- 'department': name of the department 
 
 The data is provided by TripleTen, who took it from Kaggle and modified it.
 

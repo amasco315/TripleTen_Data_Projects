@@ -3,7 +3,7 @@
 In this project I will be looking at 3 different datasets containing information on oil well sites. Each datasets pertains to a different region. My goal will be to determine which region has the highest profit margin. I will do so by bulding and training a model for each region to help predict which region has the highest profit margin. I will then use the bootstrapping technique to analyze potential risks of loss, as well as potential profits.
 
 ## The Data
-Geological exploration data for the three regions are stored in 3 separate files:
+Geological exploration data for the three regions are stored in 3 separate files: \
 **geo_data_0.csv** \
 **geo_data_1.csv** \
 **geo_data_2.csv** 

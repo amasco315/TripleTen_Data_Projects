@@ -8,13 +8,13 @@ The data was taken from one dataset on video game sales.
 - Platform (platform it was released on)
 - Year_of_Release
 - Genre
-— NA_sales (North American sales in USD million) 
-— EU_sales (sales in Europe in USD million) 
-— JP_sales (sales in Japan in USD million) 
-— Other_sales (sales in other countries in USD million) 
-— Critic_Score (maximum of 100) 
-— User_Score (maximum of 10) 
-— Rating (ESRB)
+- NA_sales (North American sales in USD million) 
+- EU_sales (sales in Europe in USD million) 
+- JP_sales (sales in Japan in USD million) 
+- Other_sales (sales in other countries in USD million) 
+- Critic_Score (maximum of 100) 
+- User_Score (maximum of 10) 
+- Rating (ESRB)
 
 ## The Process
 First I cleaned and explored the data, ensuring that there were no duplicates or missing values. I converted the data to the proper datatypes, and renamed the columns to make sure they were consistent among all columns. I then went on to using the groupby method to gather various different metrics and observe different trends among video game sales. I used data visualization, creating various different graphs to make these trends easier to observe. I then focused on the sales of each region: North America, Europe, and Japan, and observed the trends among region. Once again using data visualization in the process. Lastly, I forumlated and tested hypotheses. 
